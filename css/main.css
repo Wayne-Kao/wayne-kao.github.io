@@ -2462,12 +2462,8 @@ html {
     background: -webkit-linear-gradient(
         rgba(52, 73, 94, 0.8),
         rgba(52, 73, 94, 0.8)
-      ),
-      url(http://timothy.expert/codepen-resources/computer.jpg) no-repeat center
-        center fixed;
-    background: linear-gradient(rgba(52, 73, 94, 0.8), rgba(52, 73, 94, 0.8)),
-      url(http://timothy.expert/codepen-resources/computer.jpg) no-repeat center
-        center fixed;
+      );
+    background: linear-gradient(rgba(52, 73, 94, 0.8), rgba(52, 73, 94, 0.8));
     background-size: cover;
     text-transform: capitalize;
   }
@@ -2540,12 +2536,8 @@ html {
     background: -webkit-linear-gradient(
         rgba(52, 73, 94, 0.8),
         rgba(52, 73, 94, 0.8)
-      ),
-      url(http://timothy.expert/codepen-resources/writing.jpg) no-repeat center
-        center;
-    background: linear-gradient(rgba(52, 73, 94, 0.8), rgba(52, 73, 94, 0.8)),
-      url(http://timothy.expert/codepen-resources/writing.jpg) no-repeat center
-        center;
+      );
+    background: linear-gradient(rgba(52, 73, 94, 0.8), rgba(52, 73, 94, 0.8));
     height: 250px;
     background-size: cover;
     padding-top: 20px;
@@ -2562,12 +2554,8 @@ html {
     background: -webkit-linear-gradient(
         rgba(52, 73, 94, 0.8),
         rgba(52, 73, 94, 0.8)
-      ),
-      url(http://timothy.expert/codepen-resources/collab.jpg) no-repeat center
-        center fixed;
-    background: linear-gradient(rgba(52, 73, 94, 0.8), rgba(52, 73, 94, 0.8)),
-      url(http://timothy.expert/codepen-resources/collab.jpg) no-repeat center
-        center fixed;
+      );
+    background: linear-gradient(rgba(52, 73, 94, 0.8), rgba(52, 73, 94, 0.8));
     height: 550px;
     background-size: cover;
     padding-top: 50px;
